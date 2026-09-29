@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frantcy 的日常</title>
+    <link>https://frantcee.github.io/MyBlog</link>
+    <description>记录每一天的思考与生活。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 29 Sep 2026 17:45:47 +0800</lastBuildDate>
+    <atom:link href="https://frantcee.github.io/MyBlog/feed.xml" rel="self" type="application/rss+xml"/>
+
+  </channel>
+</rss>
